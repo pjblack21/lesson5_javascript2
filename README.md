@@ -10,14 +10,13 @@ Web Application Development
 parick beverly
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+creating an expense calculator for taxes using if statments.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pjblack21.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. how to create an if/else statment.
-2. 
-3. (Briefly describe a lesson/concept learned in this lesson.)
+2. how to build arrays.
+3. how to build a switch statment.
 
